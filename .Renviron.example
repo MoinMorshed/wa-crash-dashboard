@@ -1,0 +1,7 @@
+# Copy this file to .Renviron in the project root and fill in your own values.
+# .Renviron is listed in .gitignore and must never be committed.
+SQL_SERVER=your-server-address\INSTANCE
+SQL_PORT=1433
+SQL_DB=your_database_name
+SQL_USER=your_username
+SQL_PWD=your_password
