@@ -4,8 +4,7 @@ An interactive R Shiny dashboard for exploring statewide crash patterns in Washi
 
 **Live app:** https://moin1928.shinyapps.io/Crash_Dashboard/
 
-<!-- Add a screenshot: save it as figures/dashboard.png, then uncomment the line below -->
-<!-- ![Dashboard screenshot](figures/dashboard.png) -->
+![Dashboard screenshot](figures/dashboard.png)
 
 ## Features
 - **Overview:** rear-end crash summary for the I-5, I-90, I-405, and SR-520 study corridors
