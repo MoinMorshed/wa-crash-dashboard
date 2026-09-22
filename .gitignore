@@ -1,0 +1,28 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Credentials and local config (never commit)
+.Renviron
+config.yml
+
+# Raw and cached data (HSIS data cannot be redistributed)
+data/*
+!data/README.md
+*.rds
+*.csv
+*.xlsx
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Deployment
+rsconnect/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
